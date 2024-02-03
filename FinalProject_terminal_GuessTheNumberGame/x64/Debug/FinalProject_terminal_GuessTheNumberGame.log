@@ -1,0 +1,3 @@
+﻿  FinalProject_terminal_GuessTheNumberGame.cpp
+D:\VSstudioC++\FinalProject_terminal_GuessTheNumberGame\FinalProject_terminal_GuessTheNumberGame.cpp(7,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalProject_terminal_GuessTheNumberGame.vcxproj -> D:\VSstudioC++\FinalProject_terminal_GuessTheNumberGame\x64\Debug\FinalProject_terminal_GuessTheNumberGame.exe
